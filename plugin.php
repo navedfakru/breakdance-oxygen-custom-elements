@@ -2,10 +2,10 @@
 
 /**
  * Plugin Name: Breakdance Oxygen Custom Elements
- * Plugin URI: https://breakdance.com/
+ * Plugin URI: https://github.com/navedfakru/breakdance-oxygen-custom-elements
  * Description: Boilerplate plugin to save your custom elements created with Element Studio.
- * Author: Breakdance
- * Author URI: https://breakdance.com/
+ * Author: Naved
+ * Author URI: https://github.com/navedfakru/breakdance-oxygen-custom-elements
  * License: GPLv2
  * Text Domain: breakdance
  * Domain Path: /languages/
