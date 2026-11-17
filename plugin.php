@@ -9,7 +9,7 @@
  * License: GPLv2
  * Text Domain: breakdance
  * Domain Path: /languages/
- * Version: 1.0.2
+ * Version: 1.1.0
  */
 
 namespace BreakdanceCustomElements;
